@@ -1,0 +1,9 @@
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\obj\Debug\AccountApp.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\obj\Debug\AccountApp.AccountUI.resources
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\obj\Debug\AccountApp.Properties.Resources.resources
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.GenerateResource.Cache
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\AccountApp\AccountApp\obj\Debug\AccountApp.pdb

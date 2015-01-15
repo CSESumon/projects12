@@ -1,0 +1,15 @@
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe.config
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.CustomerQueueManagementUI.resources
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.Properties.Resources.resources
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.csproj.GenerateResource.Cache
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.exe
+E:\FTFL - batch 02 - ASP.Net MVC\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.pdb
+E:\FTFL_ASP.Net\Class Review Video\21-Dec-2014\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe.config
+E:\FTFL_ASP.Net\Class Review Video\21-Dec-2014\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.exe
+E:\FTFL_ASP.Net\Class Review Video\21-Dec-2014\21-Dec-2014\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.pdb
+E:\Work\ASP.Net\Prac\21-12-14\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe.config
+E:\Work\ASP.Net\Prac\21-12-14\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.exe
+E:\Work\ASP.Net\Prac\21-12-14\CustomerQueueManagement\CustomerQueueManagement\obj\Debug\CustomerQueueManagement.pdb
